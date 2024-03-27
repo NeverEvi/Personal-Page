@@ -24,7 +24,6 @@ import { Rod } from './src/objects/Rod/Rod.js'
 import { Inventory } from './src/objects/Inventory/Inventory.js'
 import { Rod2 } from './src/objects/Rod/Rod2.js'
 
-
 document.querySelector('#app').innerHTML = `
   <div class="head">
   <h1>NeverEvi</h1>

@@ -1,7 +1,7 @@
 {
   "name": "game-project",
   "private": true,
-  "version": "0.00.003",
+  "version": "0.00.005",
   "homepage": "https://neverevi.github.io/Personal-Page",
   "type": "module",
   "scripts": {
